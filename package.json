@@ -1,0 +1,12 @@
+{
+  "name": "@wcd/viswabnath.litts-l9pc1hci-fork-l9peplsu",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve J0q4AZRw1MIf1DAhwxqo --open"
+  },
+  "dependencies": {}
+}
